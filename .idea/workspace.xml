@@ -5,37 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d7a8fae-726a-4969-a190-18aea1285c88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab001_Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab002_Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab013_Dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_003_Datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_004_Userinput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_005_Userinput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_006_Conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_007_for_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_008_while_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_009_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_010_Functionwithparameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_011_Functionwithreturnvalue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_012_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_013_Filehandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_014_Readfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_015_Appendfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab001_Class_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab002_Encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab003_Encapsulation2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab004_Single inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab005_Multiple inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab006_Polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab007_Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Practice/Pr001_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Practice/Pr002_Max_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_016_CSV_Filehandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_017_JSON_Filehandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_018_JSON_Reading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Exception_Handling/Lab001_Exception Handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Selenium/Lab001_First program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +53,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001_Class_objects.executor": "Run",
+    "Python.Lab001_Exception Handling.executor": "Run",
+    "Python.Lab001_First program.executor": "Run",
     "Python.Lab001_Variables.executor": "Run",
     "Python.Lab002_Encapsulation.executor": "Run",
     "Python.Lab002_Variables.executor": "Run",
@@ -101,13 +78,22 @@
     "Python.Lab_013_Filehandling.executor": "Run",
     "Python.Lab_014_Readfile.executor": "Run",
     "Python.Lab_015_Appendfile.executor": "Run",
+    "Python.Lab_016_CSV_Filehandling.executor": "Run",
+    "Python.Lab_017_JSON_Filehandling.executor": "Run",
+    "Python.Lab_018_JSON_Reading.executor": "Run",
     "Python.Pr001_loops.executor": "Run",
     "Python.Pr002_Max_number.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ritesh Ghodke\PycharmProjects\PythonProject1\Python_Practice" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -156,6 +142,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_Selenium/Lab001_First program.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
