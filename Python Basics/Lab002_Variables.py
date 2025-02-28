@@ -1,0 +1,10 @@
+a=2
+b=4
+c=a+b
+d=0.5
+e=True
+print(c)
+print(type(a))
+print(type(b))
+print(type(d))
+print(type(e))

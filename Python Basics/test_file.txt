@@ -1,0 +1,7 @@
+hello this is first file in python
+ Adding new line to the file 
+ Adding new line to the file 
+ Adding new line to the file 
+ Adding new line to the file 
+Adding new line to the file 
+Adding new line to the file 

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d7a8fae-726a-4969-a190-18aea1285c88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab001_Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab002_Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab013_Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_003_Datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_004_Userinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_005_Userinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_006_Conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_007_for_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_008_while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_009_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_010_Functionwithparameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_011_Functionwithreturnvalue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_012_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_013_Filehandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_014_Readfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basics/Lab_015_Appendfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab001_Class_objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab002_Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab003_Encapsulation2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab004_Single inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab005_Multiple inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab006_Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_OOP's_concepts/Lab007_Abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practice/Pr001_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practice/Pr002_Max_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RiteshGhodke03&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RiteshGhodke03/Automation_Learning-.git&quot;,
+    &quot;accountId&quot;: &quot;44cd5d79-7ca6-4a71-a801-39c92eecde81&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tZbTELuvgxfirGHlL8wYkL4L5A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001_Class_objects.executor": "Run",
+    "Python.Lab001_Variables.executor": "Run",
+    "Python.Lab002_Encapsulation.executor": "Run",
+    "Python.Lab002_Variables.executor": "Run",
+    "Python.Lab003_Encapsulation2.executor": "Run",
+    "Python.Lab004_Single inheritance.executor": "Run",
+    "Python.Lab005_Multiple inheritance.executor": "Run",
+    "Python.Lab006_Polymorphism.executor": "Run",
+    "Python.Lab007_Abstraction.executor": "Run",
+    "Python.Lab013_Dictionaries.executor": "Run",
+    "Python.Lab_003_Datatypes.executor": "Run",
+    "Python.Lab_004_Userinput.executor": "Run",
+    "Python.Lab_005_Userinput.executor": "Run",
+    "Python.Lab_006_Conditions.executor": "Run",
+    "Python.Lab_007_Loops.executor": "Run",
+    "Python.Lab_007_for_Loop.executor": "Run",
+    "Python.Lab_008_while_loop.executor": "Run",
+    "Python.Lab_009_Functions.executor": "Run",
+    "Python.Lab_010_Functionwithparameter.executor": "Run",
+    "Python.Lab_011_Functionwithreturnvalue.executor": "Run",
+    "Python.Lab_012_List.executor": "Run",
+    "Python.Lab_013_Filehandling.executor": "Run",
+    "Python.Lab_014_Readfile.executor": "Run",
+    "Python.Lab_015_Appendfile.executor": "Run",
+    "Python.Pr001_loops.executor": "Run",
+    "Python.Pr002_Max_number.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fc1d50d2d915-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d7a8fae-726a-4969-a190-18aea1285c88" name="Changes" comment="" />
+      <created>1740562549746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740562549746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
